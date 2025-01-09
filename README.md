@@ -8,6 +8,6 @@
    1. Склонируйте данный репозиторий.
    2. Откройте файл ```index.html```
    
-Или вы можете просто зайти на [сайт](http://152.70.48.236:9783/), загруженный на Github Pages.
+Или вы можете просто зайти на [сайт](https://evgeniywis.github.io/Kopiberi/), загруженный на Github Pages.
 # Макет вёрстки
 ![image](https://github.com/KrisWis/Kopiberi/assets/94256853/acafe608-e496-447e-9285-4440dca0c1db)
